@@ -1,3 +1,41 @@
 <resources>
-    <string name="app_name">beduF0M2Kotlin</string>
+    <string name="app_name">Tareas</string>
+    <string name="menu_activity_gato">Michis</string>
+    <string name="menu_activity_clima">Weather</string>
+    <string name="menu_activity_parametro">Pasar Datos</string>
+
+
+    <string name="maluspumila">Manzana</string>
+    <string name="betabulagris">Betabel</string>
+    <string name="cariandrumsativum">Cilantro</string>
+    <string name="solamunycopersicum">Jitomate</string>
+    <string name="perseamericana">Aguacate</string>
+    <string name="pyrusconmunis">Pera</string>
+    <string name="solanumelongena">Berenjena</string>
+    <string name="vitisvinifera">Uva</string>
+    <string name="cetavulgaris">Acelga</string>
+    <string name="capsicumspp">Ajíes</string>
+    <string name="capsicumannum">Ají pimiento grande</string>
+    <string name="capsicumfrutescens">Ají pequeño</string>
+    <string name="alliumsativum">Ajo</string>
+    <string name="alliumporrum">Ajo porro o puerro</string>
+    <string name="apiumgravolens">Apio</string>
+    <string name="solanummeolongena">Berenjena</string>
+    <string name="curcurbitamoschata">Calabaza</string>
+    <string name="slliumcepa">Cebolla</string>
+    <string name="sechiumedule">Chayote</string>
+    <string name="brassicaoleracea">Col / Repollo</string>
+    <string name="spinaciaoleracea">Espinaca</string>
+    <string name="phaseolusvulgaris">Habichuela / Poroto</string>
+    <string name="lactucasativa">Lechuga</string>
+    <string name="zeamays">Maíz</string>
+    <string name="arachishypogaea">Maní</string>
+    <string name="lycopersiconlesculentum">Tomate</string>
+    <string name="cucumissativus">Pepino</string>
+    <string name="hibiscusesculentus">Quimbombo</string>
+    <string name="raphanussativus">Rábano / Rabanito</string>
+    <string name="detavulgaris">Remolacha</string>
+    <string name="daucuscarota">Zanahoria</string>
+    <string name="menu_activity_recyvlerview">Recyclerview</string>
+
 </resources>
